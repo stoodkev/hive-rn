@@ -1,0 +1,27 @@
+{
+  "name": "hive-rn",
+  "version": "1.0.0",
+  "description": "Hive for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stoodkev/hive-rn.git"
+  },
+  "keywords": [
+    "hive",
+    "blockchain",
+    "react-native"
+  ],
+  "author": "stoodkev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stoodkev/hive-rn/issues"
+  },
+  "homepage": "https://github.com/stoodkev/hive-rn#readme",
+  "dependencies": {
+    "hive-tx": "^3.1.10"
+  }
+}
